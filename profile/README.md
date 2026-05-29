@@ -1,7 +1,8 @@
 # OpenDevFlow
-![OpenDevFlow](https://github.com/user-attachments/assets/77817ad0-5fc2-48cd-a5dd-b89634aa7913)
 
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/77817ad0-5fc2-48cd-a5dd-b89634aa7913" alt="opendevflow banner" width="10%">
+</p>
 
 Welcome to **OpenDevFlow**! This community is dedicated to fostering collaboration and innovation through open-source projects. We aim to create a space where developers of all levels can contribute, learn, and grow together by working on open-source software.
 
